@@ -79,7 +79,10 @@ image: sunset.jpg
                         /
                         <span class="years">{{ education.years }}</span>
                     </h3>
-                    <h5 class="organization">{{ education.organization }}:</h5>
+                    <h5 class="organization">{{ education.organization }}
+                        {% if education.description %}:
+                        {% endif %}
+                    </h5>
                     <div class="education-description">{{ education.description }}</div>
                 </li>
             {% endfor %}

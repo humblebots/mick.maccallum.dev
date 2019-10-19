@@ -47,9 +47,9 @@ experience:
 
 education-title: Education
 education:
-- {degree: Bachelor of Software Engineering (B.SE.), years: 2015 - 2017, organization: Florida Gulf Coast University, Fort Myers, FL, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Bachelor of Software Engineering (B.SE.), years: 2015 - 2017, organization: "Florida Gulf Coast University, Fort Myers, FL", description: null}
 
-- {degree: Associate of Arts (AA), years: 2012 - 2015, organization: Florida SouthWestern State College, description: Raclette farm-to-table meditation succulents taiyaki chambray gentrify taxidermy literally biodiesel. Blog knausgaard poutine tacos vaporware chillwave.}
+- {degree: Associate of Arts (AA), years: 2012 - 2015, organization: "Florida SouthWestern State College, Fort Myers, FL", description: null}
 
 #-------------------------------
 # Clients Section
