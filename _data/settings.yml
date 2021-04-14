@@ -111,7 +111,7 @@ projects:
 social:
 - {link: "https://www.stackoverflow.com/users/716216", icon: ion-ios-code, title: StackOverflow }
 - {link: "https://www.github.com/0x7fs", icon: ion-logo-github, title: GitHub }
-- {link: "https://apps.apple.com/us/developer/michael-maccallum/id284776469", icon: ion-logo-apple, title: Apple App Store Listings }
+- {link: "https://humblebots.io/", icon: ion-logo-apple, title: Apple App Store Listings }
 # - {link: "https://apps.apple.com/us/developer/michael-maccallum/id284776469", icon: ion-md-document, title: Download Résumé }
 
 # social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
