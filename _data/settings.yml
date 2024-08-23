@@ -15,32 +15,24 @@ menu:
 avatar: 05.jpg
 name: Mick MacCallum
 my-job: Senior Software Engineer
-description: I'm a software engineer focused on mobile development. I'm primarily experienced with native iOS development although lately I've been using React Native more often than not.
+description: Hey! I'm Mick, a software developer based in Babcock Ranch, Florida. My focus has always been on mobile development, with experience in both native iOS and React Native.
 # description: I’m a product designer, illustrator & side-project enthusiast. I’m currently build great products at Pixel Media.
-email: micksmaccallum@gmail.com
-
-#-------------------------------
-# Skills Section
-
-skills-title: Professional Skills
-skills:
-- {name: Communication, value: '90'}
-- {name: Learning, value: '95'} 
-- {name: Planning, value: '60'}
-- {name: Visual Design, value: '80'}
-- {name: UX Design, value: '85'}
-- {name: Programming, value: '70'}
+email: mickm@hey.com
 
 #-------------------------------
 # Experience Section
 
 experience-title: Experience
 experience:
-- {company-name: Evil Studios Limited, duration: 2018 - Present, job-position: Senior Software Engineer, description: "Lead developer for Evil Apples' iOS and Android apps. Oversaw integration of React Native on both platforms and assisted in the development of new backend features for its Node RESTful webservice."}
+- {company-name: Parra, duration: January 2024 - Present, job-position: Co-founder, description: "Working on bringing Parra to market. Primarily responsible for the development of Parra's SDKs and CLI tools. We're launching soon, so check it out!"}
 
-- {company-name: Evil Studios Limited, duration: 2016 - 2018, job-position: Software Engineer, description: "Developer working on the Evil Apples iOS app, a top 25 card game in the App Store. Responsible for daily maintenance, bug fixes and new feature development from planning and specification to deployment."}
+- {company-name: Cameo, duration: May 2021 - January 2024, job-position: Senior Software Engineer, description: "iOS Developer on Cameo's mobile team. Led successful initiatives to improve the overall quality of the iOS app, with a focus on performance, crash rate, and App Store ratings. Contributed to the development of a video recorder/editor pipeline with support for face filters and video editing. Also managed the release process for both iOS and Android apps, along with the associated deployment infrastructure."}
 
-- {company-name: Stack Overflow, duration: 2014 - 2016, job-position: Elected Community Moderator, description: "Assisted a team of moderators in community management and moderation including detecting and preventing spam creation as well as guiding new users to use Stack Overflow more effectively."}
+- {company-name: Evil Studios Limited, duration: March 2018 - May 2021, job-position: Senior Software Engineer, description: "Lead developer for Evil Apples' iOS and Android apps. Oversaw integration of React Native on both platforms and assisted in the development of new backend features for its Node RESTful webservice."}
+
+- {company-name: Evil Studios Limited, duration: January 2016 - March 2018, job-position: Software Engineer, description: "Developer working on the Evil Apples iOS app, a top 25 card game in the App Store. Responsible for daily maintenance, bug fixes and new feature development from planning and specification to deployment."}
+
+- {company-name: Stack Overflow, duration: February 2014 - January 2016, job-position: Elected Community Moderator, description: "Assisted a team of moderators in community management and moderation including detecting and preventing spam creation as well as guiding new users to use Stack Overflow more effectively."}
 
 #-------------------------------
 # Education Section
@@ -111,7 +103,7 @@ projects:
 social:
 - {link: "https://www.stackoverflow.com/users/716216", icon: ion-ios-code, title: StackOverflow }
 - {link: "https://www.github.com/0x7fs", icon: ion-logo-github, title: GitHub }
-- {link: "https://humblebots.io/", icon: ion-logo-apple, title: Apple App Store Listings }
+# - {link: "https://humblebots.io/", icon: ion-logo-apple, title: Apple App Store Listings }
 # - {link: "https://apps.apple.com/us/developer/michael-maccallum/id284776469", icon: ion-md-document, title: Download Résumé }
 
 # social network icons available (https://ionicons.com/): 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' /
