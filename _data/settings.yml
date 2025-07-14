@@ -24,11 +24,11 @@ email: mickm@hey.com
 
 experience-title: Experience
 experience:
-- {company-name: Parra, duration: January 2024 - Present, job-position: Co-founder, description: "Working on bringing Parra to market. Primarily responsible for the development of Parra's SDKs and CLI tools. We're launching soon, so check it out!"}
+- {company-name: Parra, duration: January 2024 - Present, job-position: Co-founder, description: "Parra is a native mobile development framework offering drop-in components and features to help developers bring apps to market faster than ever before. I'm building Parra's SDKs and CLI tools." }
 
-- {company-name: Cameo, duration: May 2021 - January 2024, job-position: Senior Software Engineer, description: "iOS Developer on Cameo's mobile team. Led successful initiatives to improve the overall quality of the iOS app, with a focus on performance, crash rate, and App Store ratings. Contributed to the development of a video recorder/editor pipeline with support for face filters and video editing. Also managed the release process for both iOS and Android apps, along with the associated deployment infrastructure."}
+- {company-name: Cameo, duration: June 2021 - January 2024, job-position: Senior Software Engineer, description: "iOS Developer on Cameo's mobile team. Led successful initiatives to improve the overall quality of the iOS app, with a focus on performance, crash rate, and App Store ratings. Contributed to the development of a video recorder/editor pipeline with support for face filters and video editing. Also managed the release process for both iOS and Android apps, along with the associated deployment infrastructure."}
 
-- {company-name: Evil Studios Limited, duration: March 2018 - May 2021, job-position: Senior Software Engineer, description: "Lead developer for Evil Apples' iOS and Android apps. Oversaw integration of React Native on both platforms and assisted in the development of new backend features for its Node RESTful webservice."}
+- {company-name: Evil Studios Limited, duration: March 2018 - June 2021, job-position: Senior Software Engineer, description: "Lead developer for Evil Apples' iOS and Android apps. Oversaw integration of React Native on both platforms and assisted in the development of new backend features for its Node RESTful webservice."}
 
 - {company-name: Evil Studios Limited, duration: January 2016 - March 2018, job-position: Software Engineer, description: "Developer working on the Evil Apples iOS app, a top 25 card game in the App Store. Responsible for daily maintenance, bug fixes and new feature development from planning and specification to deployment."}
 
